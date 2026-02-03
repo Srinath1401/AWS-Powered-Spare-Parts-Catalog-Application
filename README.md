@@ -1,7 +1,6 @@
 # AWS-Powered-Spare-Parts-Catalog-Application
-AWS 3 Tier Web-Application 
 Project Description:
-This cloud-based project is a Spare Parts Catalog Management System 
+AWS 3 Tier Web-Application This cloud-based project is a Spare Parts Catalog Management System 
 developed and deployed using Amazon Web Services (AWS). The application 
 allows users to enter and manage spare part details such as part name, part 
 number, price, and quantity through a web-based interface. The frontend is hosted 
